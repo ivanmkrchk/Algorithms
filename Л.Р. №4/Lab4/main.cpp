@@ -10,8 +10,7 @@ void segregate(int arr[], int n);
 int main()
 {
 	int count_negative = 0;
-	//negative and positive numbers like key 0 and 1
-	int arr[] = { -12, 11, -13, -5, 6, -7, 5, -3, -6 };
+	int arr[] = { 0, 1, 1, 0, 0, 0, 1, 1, 0, 1 };
 	int n = sizeof(arr) / sizeof(arr[0]);
 	segregate(arr, n);
 	for (int i = 0; i < n; i++)
