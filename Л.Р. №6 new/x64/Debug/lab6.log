@@ -1,0 +1,6 @@
+﻿  main6.cpp
+c:\users\blagi\source\repos\hodzinskiy\lab6\main6.cpp(7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\blagi\source\repos\hodzinskiy\lab6\main6.cpp(26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\blagi\source\repos\hodzinskiy\lab6\main6.cpp(27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\blagi\source\repos\hodzinskiy\lab6\main6.cpp(58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab6.vcxproj -> C:\Users\blagi\source\repos\hodzinskiy\x64\Debug\lab6.exe
